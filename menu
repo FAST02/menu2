@@ -2,7 +2,7 @@
     {
         "id": "1",
         "parent_id": "0",
-        "name": "Project",
+        "name": "Option1",
         "children": [
             [
                 {
@@ -29,7 +29,7 @@
     {
         "id": "2",
         "parent_id": "0",
-        "name": "Options2",
+        "name": "Option2",
         "children": [
             [
                 {
@@ -44,7 +44,7 @@
     {
         "id": "3",
         "parent_id": "0",
-        "name": "Options3",
+        "name": "Option3",
         "children": [
             [
                 {
@@ -67,7 +67,7 @@
     {
         "id": "4",
         "parent_id": "0",
-        "name": "Options4",
+        "name": "Option4",
         "children": [
             [
                 {
